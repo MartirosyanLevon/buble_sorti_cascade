@@ -1,6 +1,6 @@
 data = [6,8,2,5,9,10]
 
-def Buble_sort(data):
+def buble_sort(data):
     swaped = True
     while swaped:
         swaped = False
